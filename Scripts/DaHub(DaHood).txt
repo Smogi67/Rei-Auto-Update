@@ -1,0 +1,3 @@
+getgenv().Toggle = "v"
+getgenv().Intro = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoUGotbannedlol/DaHubV3/main/Launch"))()
