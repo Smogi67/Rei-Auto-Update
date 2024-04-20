@@ -1,2 +1,1 @@
-_G.wl_key = "370c56c3cd672d31b0312578e984434299809e40"
-loadstring(game:HttpGet("https://scripts.luawl.com/12776/IslandsV2.lua", true))()
+
